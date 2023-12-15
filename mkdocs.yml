@@ -1,0 +1,15 @@
+site_name: My Friend Doug
+
+theme:
+  name: material
+  palette:
+    primary: blue
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+
+nav:
+  - Home: index.md
+  - Oonabloem: oonabloem.md
+  - Jelly Dots: jellydots.md
